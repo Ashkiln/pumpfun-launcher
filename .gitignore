@@ -1,0 +1,30 @@
+# Windows
+Thumbs.db
+ehthumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+
+# Temp and backup
+*.tmp
+*.bak
+~$*
+
+# Release upload inputs, never committed.
+#
+# release-notes/<version>.md is a TEMPLATE read by scripts/release.ps1 in the
+# source repo. It must keep its {{SHA256}} token: the script refuses to run
+# without it, and substitutes the real checksum into a COPY at upload time.
+# What reaches GitHub is the rendered copy on the Releases page, not this file.
+release-notes/
+
+# Release binaries: uploaded as GitHub release assets, never committed
+releases/
+*.exe
+*.exe.sig
