@@ -11,7 +11,9 @@ You do not need to install anything else first. If the Microsoft Edge WebView2 r
 from your machine, the installer fetches it for you.
 
 Installing and running the app means accepting the
-[End User Licence Agreement](../LICENSE).
+[End User Licence Agreement](../LICENSE). The installer shows it and asks you to agree before
+anything is written to your disk, and a copy is installed alongside the app as `LICENSE.txt` so you
+can read it any time without an internet connection.
 
 ## 1. Download
 
@@ -89,6 +91,8 @@ registry beyond the uninstall entry, and nothing in a hidden user profile folder
 ```
 C:\Ashkiln_Pumpfun_Launcher\
   Ashkiln Pumpfun Launcher.exe
+  LICENSE.txt          the agreement you accepted when you installed
+  THIRD-PARTY-NOTICES.txt   the open source components this app is built on
   settings\            your wallet file, config, RPC endpoints, saved theme
     seed.enc           ← your encrypted recovery phrase. This IS your wallets.
     wallet_meta.json   which wallet slots you are using
