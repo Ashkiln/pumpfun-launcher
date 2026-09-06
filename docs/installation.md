@@ -10,6 +10,9 @@
 You do not need to install anything else first. If the Microsoft Edge WebView2 runtime is missing
 from your machine, the installer fetches it for you.
 
+Installing and running the app means accepting the
+[End User Licence Agreement](../LICENSE).
+
 ## 1. Download
 
 Get the installer from the
