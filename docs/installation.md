@@ -22,7 +22,7 @@ Get the installer from the
 named like this:
 
 ```
-Ashkiln_Pumpfun_Launcher_1.0.1_x64-setup.exe
+Ashkiln_Pumpfun_Launcher_1.0.2_x64-setup.exe
 ```
 
 ### Checking the download (optional)
@@ -31,7 +31,7 @@ Ashkiln_Pumpfun_Launcher_1.0.1_x64-setup.exe
 downloaded, open PowerShell in your Downloads folder and run:
 
 ```powershell
-Get-FileHash Ashkiln_Pumpfun_Launcher_1.0.1_x64-setup.exe -Algorithm SHA256
+Get-FileHash Ashkiln_Pumpfun_Launcher_1.0.2_x64-setup.exe -Algorithm SHA256
 ```
 
 Compare the `Hash` it prints against the one on that release's page. If they match, the file you
