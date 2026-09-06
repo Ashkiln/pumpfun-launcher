@@ -25,6 +25,10 @@ named like this:
 Ashkiln_Pumpfun_Launcher_1.0.2_x64-setup.exe
 ```
 
+**Only the current version is available to download.** Older releases keep their notes and their
+checksums for reference, but their installers are removed when a new version ships. The app updates
+itself, so you never need an older installer.
+
 ### Checking the download (optional)
 
 **Every release page lists the SHA-256 checksum of its own installer.** To check the file you
