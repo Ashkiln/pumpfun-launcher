@@ -236,6 +236,24 @@ There is no separate analytics server and no second host is ever contacted.
 
 ---
 
+## Where can I read the licence?
+
+Three places, and they all say the same thing.
+
+- **In the app.** Settings → About has a Licence card. It opens the agreement, opens the third party
+  notices, and links to the published copy for the exact version you are running.
+- **In your install folder.** `LICENSE.txt` sits next to the program. Plain text, no internet
+  needed.
+- **Here on GitHub.** The [End User Licence Agreement](../LICENSE) as published.
+
+The installer also shows it and asks you to agree before anything is written to your disk.
+
+Next to it, `THIRD-PARTY-NOTICES.txt` lists every open source component compiled into the app and
+reproduces the licence each one is offered under. The app itself is proprietary, but it is built on
+a lot of other people's work and that file is where they are credited.
+
+---
+
 ## How many wallets can buy in a launch?
 
 Four trading wallets, or three plus the dev wallet if the dev buys too. That is a hard limit of the

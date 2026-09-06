@@ -135,7 +135,9 @@ summary of it, the file. There is no opt out switch in this version.
 The app is proprietary and its source is not published. Running it means accepting the
 [End User Licence Agreement](LICENSE), which covers the platform fee, the telemetry described
 above, and the limits of our liability. The documentation in this repository may be quoted and
-linked with attribution.
+linked with attribution. A copy of the agreement is installed with the app as `LICENSE.txt`,
+alongside `THIRD-PARTY-NOTICES.txt` for the open source components it is built on, and both are
+reachable from Settings → About.
 
 ## Support
 
