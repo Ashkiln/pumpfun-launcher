@@ -11,20 +11,21 @@ $RECYCLE.BIN/
 .vscode/
 .idea/
 
+# Local working files
+CLAUDE.md
+.claude/
+*.local.md
+local/
+
 # Temp and backup
 *.tmp
 *.bak
 ~$*
 
-# Release upload inputs, never committed.
-#
-# release-notes/<version>.md is a TEMPLATE read by scripts/release.ps1 in the
-# source repo. It must keep its {{SHA256}} token: the script refuses to run
-# without it, and substitutes the real checksum into a COPY at upload time.
-# What reaches GitHub is the rendered copy on the Releases page, not this file.
+# Release inputs
 release-notes/
 
-# Release binaries: uploaded as GitHub release assets, never committed
+# Release binaries
 releases/
 *.exe
 *.exe.sig

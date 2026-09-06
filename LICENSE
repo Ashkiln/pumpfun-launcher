@@ -1,0 +1,279 @@
+Ashkiln Pumpfun Launcher
+End User Licence Agreement
+
+Copyright (c) 2026 Ashkiln. All rights reserved.
+
+This is a licence to use compiled software. It is not an open source licence.
+By downloading, installing or running the Ashkiln Pumpfun Launcher ("the
+Software") you agree to everything below. If you do not agree, do not install
+or run it.
+
+
+1. LICENCE GRANTED
+
+You are granted a personal, non-exclusive, non-transferable, revocable licence
+to install and run the Software on computers you own or control, for your own
+use. That is the whole of the grant.
+
+You confirm that you are at least 18 years old and legally able to enter into
+this agreement.
+
+"The documentation" means the README and the files under docs/ in the
+Software's public repository at https://github.com/Ashkiln/pumpfun-launcher,
+together with the release notes published for the version you are running.
+Where this agreement refers to something being described or published in the
+documentation, it means that documentation as it stood for your version.
+
+
+2. WHAT IS NOT GRANTED
+
+The source code of the Software is not published and is not licensed to you
+under any terms. Nothing in this agreement transfers ownership of the Software
+or of any intellectual property in it.
+
+You may not:
+
+  (a) sell, rent, lease, lend, sublicence, publish or otherwise distribute the
+      Software or any part of it;
+
+  (b) reverse engineer, decompile, disassemble or otherwise attempt to derive
+      the source code, algorithms or internal structure of the Software, except
+      and only to the extent that applicable law expressly prohibits this
+      restriction;
+
+  (c) modify, adapt, translate or create derivative works from the Software, or
+      distribute a patched, cracked or repackaged build of it;
+
+  (d) remove, obscure or alter any copyright notice, trade mark, branding or
+      attribution in the Software or its installer;
+
+  (e) circumvent, disable, tamper with or attempt to avoid the platform fee
+      mechanism described in the documentation, or any licence, update or
+      integrity check;
+
+  (f) use the Software to build or assist a competing product, or use it as
+      part of a service you offer to third parties.
+
+Section 10 qualifies this section in respect of third party components.
+
+
+3. FEES
+
+The Software includes a platform fee that is applied to trades it executes, at
+the rates published in the documentation at the time of use. That fee forms
+part of the consideration for this licence, and your use of the Software is
+your agreement to it. Fee rates may change in later versions; the rates that
+apply are those documented for the version you are running.
+
+The fee instruction is part of the same on chain transaction as the trade, so a
+trade that does not land is not charged. Fees that are charged are taken on
+chain at the time of the trade and are not refundable.
+
+The platform fee is separate from, and in addition to, fees charged by third
+parties, including pump.fun, the Solana network, priority fees, Jito tips and
+account rent. Those are not received by the licensor.
+
+
+4. CONFIGURATION, UPDATES AND TELEMETRY
+
+The Software contacts a server operated by the licensor from time to time, to
+retrieve its configuration and to check whether a newer version is available.
+No other host is contacted for that purpose.
+
+That check in also transmits a small set of anonymous usage counters and crash
+indicators, as described in the documentation. By running the Software you
+consent to this. There is no opt out in the current version.
+
+The Software does not transmit wallet addresses, private keys, recovery
+phrases, passphrases, coin addresses, trade details, amounts, RPC endpoints,
+API keys or file paths.
+
+When you accept an available update, the Software downloads and installs a new
+version of itself and restarts. It does not replace itself without your action.
+
+
+5. YOUR KEYS AND YOUR FUNDS ARE YOURS ALONE
+
+The Software generates and stores cryptographic keys on your own machine. The
+licensor has no access to them and cannot recover, reset, restore or replace
+any recovery phrase, private key or passphrase, and cannot recover any funds.
+Loss of your recovery phrase or passphrase means permanent, irreversible loss
+of access to the associated wallets and everything in them. Keeping a secure
+backup is entirely your responsibility.
+
+
+6. TRADING RISK AND NO ADVICE
+
+The Software places real financial transactions on a public blockchain, using
+your funds, automatically and without further confirmation once configured.
+Those transactions are irreversible.
+
+Nothing produced by the Software or its documentation is financial, investment,
+tax or legal advice. Every trade the Software makes is one you configured and
+initiated. You are solely responsible for your trading decisions, for the
+tokens you create or buy, and for any losses.
+
+You are responsible for ensuring that your use of the Software is lawful where
+you are, including any securities, tax, anti-fraud, anti-money-laundering and
+market-conduct obligations that apply to you. You must not use the Software to
+defraud, deceive or manipulate other market participants, or for any unlawful
+purpose.
+
+
+7. NO BROKER, CUSTODIAN OR ADVISORY RELATIONSHIP
+
+The licensor is not a broker, dealer, exchange, trading venue, investment
+adviser, money transmitter, money services business or custodian, and at no
+point holds, controls, transmits or has access to your funds, your keys or your
+tokens. The Software runs on your machine and signs with your keys.
+
+Nothing in this agreement or in your use of the Software creates a fiduciary,
+advisory, agency, partnership or trust relationship between you and the
+licensor. The licensor does not act on your behalf, and does not select,
+endorse, evaluate or vouch for any coin.
+
+
+8. SANCTIONS AND ELIGIBILITY
+
+You represent that you are not located in, resident in, or organised under the
+laws of any country or territory subject to comprehensive economic sanctions,
+that you are not a person listed on, or owned or controlled by a person listed
+on, any sanctions or restricted party list maintained by the United States, the
+United Kingdom, the European Union or the United Nations, and that you will not
+use the Software on behalf of any such person.
+
+You are responsible for complying with the export control and sanctions laws
+that apply to you. This licence terminates immediately if any of the above
+ceases to be true.
+
+
+9. THIRD PARTY SERVICES
+
+The Software interacts with third party systems including pump.fun, the Solana
+network, Jito, RPC providers and data and storage providers. The licensor is
+not affiliated with, endorsed by, or acting on behalf of any of them, does not
+control them, and is not responsible for their availability, behaviour,
+correctness, fees or changes to them. A change made by any of those third
+parties may stop the Software working without notice.
+
+
+10. THIRD PARTY COMPONENTS
+
+The Software includes third party open source components. Each is licensed to
+you by its own author under its own terms, not under this agreement, and those
+terms prevail over this agreement in respect of that component, including where
+they grant you a right that section 2 would otherwise restrict. A list of those
+components and their licence notices is distributed with the Software and
+published with each release.
+
+Nothing in this section grants you any right in the Software as a whole beyond
+the licence in section 1.
+
+
+11. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY
+KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES
+OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, AND
+NON-INFRINGEMENT. THE LICENSOR DOES NOT WARRANT THAT THE SOFTWARE WILL BE
+UNINTERRUPTED, TIMELY, SECURE, ERROR FREE, OR THAT ANY TRANSACTION, LAUNCH,
+BUY, SELL, BUNDLE OR AUTOMATED RULE WILL EXECUTE, EXECUTE ON TIME, OR EXECUTE
+AT ANY PARTICULAR PRICE.
+
+
+12. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE LICENSOR SHALL NOT BE LIABLE FOR
+ANY LOSS OF FUNDS, LOSS OF TOKENS, LOSS OF PROFIT, LOST OR MISSED TRADES,
+FAILED, REVERTED, DELAYED OR FRONT-RUN TRANSACTIONS, NETWORK OR PRIORITY FEES
+SPENT ON TRANSACTIONS THAT DID NOT LAND, LOSS OF DATA, LOSS OF KEYS, OR ANY
+INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY OR PUNITIVE DAMAGES,
+ARISING OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THIS AGREEMENT, WHETHER
+IN CONTRACT, TORT, NEGLIGENCE OR OTHERWISE, AND WHETHER OR NOT THE LICENSOR
+WAS ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE LICENSOR'S TOTAL AGGREGATE
+LIABILITY ARISING OUT OF OR IN CONNECTION WITH THE SOFTWARE SHALL NOT EXCEED
+THE GREATER OF (A) THE TOTAL AMOUNT OF PLATFORM FEES YOU PAID TO THE LICENSOR
+THROUGH THE SOFTWARE IN THE THIRTY (30) DAYS BEFORE THE EVENT GIVING RISE TO
+THE CLAIM, OR (B) USD 50.
+
+Some jurisdictions do not allow the exclusion of certain warranties or the
+limitation of certain liabilities. Where that is the case, the exclusions and
+limitations above apply to the fullest extent permitted, and nothing in this
+agreement limits liability for fraud or for death or personal injury caused by
+negligence.
+
+
+13. INDEMNITY
+
+You will indemnify the licensor and hold the licensor harmless against any
+claim, demand, investigation, loss, liability, damage, penalty, cost or expense
+including reasonable legal fees, brought by a third party, a regulator or a tax
+authority, to the extent it arises out of:
+
+  (a) your use of the Software;
+
+  (b) any coin you create, promote, buy or sell using it, and any statement you
+      make about one;
+
+  (c) your breach of this agreement, in particular sections 2, 6 and 8; or
+
+  (d) your breach of any law that applies to you.
+
+The licensor will notify you of a claim it becomes aware of, and you will not
+settle a claim in a way that imposes an obligation or an admission on the
+licensor without its written consent.
+
+
+14. NO SUPPORT OR UPDATE OBLIGATION
+
+The licensor is under no obligation to provide support, maintenance, bug fixes,
+updates or new versions, or to keep any version working against changes made by
+third party systems.
+
+
+15. CHANGES TO THIS AGREEMENT
+
+Later versions of the Software may be released under a revised version of this
+agreement, published with that release. The version that applies to you is the
+one published with the version of the Software you are running, and installing
+an update is your acceptance of the terms published with it. If you do not
+accept them, do not install that update; your licence for the version you
+already have is unaffected.
+
+
+16. TERMINATION
+
+This licence terminates automatically and immediately if you breach any of its
+terms. On termination you must stop using the Software and remove it from your
+machines. Sections 2, 3, 5, 6, 7, 9, 10, 11, 12, 13, 17 and 18 survive
+termination.
+
+
+17. GENERAL
+
+This agreement is governed by the laws of the State of Delaware, United States
+of America, without regard to its conflict of law rules. The state and federal
+courts located in New Castle County, Delaware have exclusive jurisdiction over
+any dispute arising out of or in connection with it, and you consent to that
+jurisdiction and to that venue and waive any objection to it on grounds of
+inconvenient forum. Nothing in this section deprives you of the protection of a
+mandatory consumer law of the country in which you are resident.
+
+If any provision is held unenforceable, it is severed and the rest remains in
+force. A failure to enforce a provision is not a waiver of it. You may not
+assign this agreement; the licensor may assign it as part of a transfer of the
+Software.
+
+This agreement, together with the documentation it refers to, is the entire
+agreement between you and the licensor regarding the Software, and supersedes
+any prior understanding.
+
+
+18. DOCUMENTATION
+
+The documentation, including this repository's README and the files under
+docs/, may be read, quoted and linked to freely with attribution. It may not be
+republished in full as if it were your own, and this permission does not extend
+to the Software itself or to the Ashkiln name, logo or brand.

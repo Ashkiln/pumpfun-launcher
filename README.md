@@ -130,6 +130,13 @@ summary of it, the file. There is no opt out switch in this version.
 | [Troubleshooting](docs/troubleshooting.md) | What the errors mean and what to do |
 | [FAQ](docs/faq.md) | Fees, Mac and Linux, graduation, key safety |
 
+## Licence
+
+The app is proprietary and its source is not published. Running it means accepting the
+[End User Licence Agreement](LICENSE), which covers the platform fee, the telemetry described
+above, and the limits of our liability. The documentation in this repository may be quoted and
+linked with attribution.
+
 ## Support
 
 Questions, bug reports and feature requests:
